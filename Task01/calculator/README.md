@@ -16,7 +16,7 @@ calculator
 
 ## Packagist
 
-https://packagist.org/packages/your_github_username/calculator
+https://packagist.org/packages/tenishevr/calculator
 
 ## Лицензия
 

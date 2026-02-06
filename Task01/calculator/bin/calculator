@@ -3,6 +3,6 @@
 
 require __DIR__ . '/../vendor/autoload.php';
 
-use Tenis\Calculator\Controller;
+use Tenishevr\Calculator\Controller;
 
 Controller::startGame();

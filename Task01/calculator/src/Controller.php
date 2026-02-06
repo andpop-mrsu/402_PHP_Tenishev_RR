@@ -1,6 +1,6 @@
 <?php
 
-namespace Tenis\Calculator;
+namespace Tenishevr\Calculator;
 
 use function cli\line;
 
